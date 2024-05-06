@@ -1,4 +1,4 @@
-This Application made by Alireza Alavi.
+🔰This Application made by Alireza Alavi.
 In this project I considered client's needed and it has these features:
 -
 1. Doctor/Doctors:
@@ -18,6 +18,9 @@ In this project I considered client's needed and it has these features:
 4. View Other Staff: Admin can view other staff members along with their designations.
 5. Search Box: Admin can search for a specific employ within the company by name
 6. Add/Remove: Admin can Add/remove doctors patients and other staff members form the clinic.
+
+
+🛎️<b> Keep this in mind that I can't upload whole project (such as open source code)</b>🛎️
 
 ![Hello](hello.svg)
 
