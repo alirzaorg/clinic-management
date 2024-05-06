@@ -22,6 +22,8 @@ In this project I considered client's needed and it has these features:
 
 🛎️<b> Keep this in mind that I can't upload whole project (such as open source code)</b>🛎️
 
+![Preview](Preview.PNG)
+
 ![Hello](hello.svg)
 
 
