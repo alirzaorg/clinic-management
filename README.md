@@ -1,5 +1,4 @@
-🔰This Application made by Alireza Alavi.
-In this project I considered client's needed and it has these features:
+🔰This application was created by Alireza Alavi. In this project, I considered the client's needs and incorporated the following features:
 -
 1. Doctor/Doctors:
 
