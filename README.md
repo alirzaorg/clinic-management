@@ -1,29 +1,42 @@
 🔰This application was created by Alireza Alavi. In this project, I considered the client's needs and incorporated the following features:
 -
 1. Doctor/Doctors:
-
+</br>
 1. DoctorProfile: Doctor can see his own profile
+</br>
 2. PendingAppointments: Doctor can see all the pending appointments against his doctor ID.
-3. TodaysAppointmemts: the appointments for current day will be shown.The doctor then can select/reject any appointment of that day
+</br>
+3.TodaysAppointmemts: the appointments for current day will be shown.The doctor then can select/reject any appointment of that day
+ </br>
 4. HistoryUpdate: He can update prescription,disease and progress of patient
+ </br>
 5. GenerateBill: He will then generate the bill
+ </br>
 6. PatientHistory: Doctor will be able to see the treatment history of all his treated patients.
-7. 
+</br>
+</br>
+
+
 2. Administrator:
-
+</br>
 1. Admin Home: Admin can view Clinic stats which includes weekly appointments, income of the Clinic. No of registered patients and doctors along with the list of departments
+</br>
 2. View Doctors: Admin can view the list of doctors currently registered along with their departments and other information. Complete profile will be shown when clicked.
+</br>
 3. View Patients: Admin can view the list of patients currently registered along with their phone numbers and ids. Complete profile will be shown when clicked.
+</br>
 4. View Other Staff: Admin can view other staff members along with their designations.
+</br>
 5. Search Box: Admin can search for a specific employ within the company by name
+</br>
 6. Add/Remove: Admin can Add/remove doctors patients and other staff members form the clinic.
+7. 
 
-
-🛎️<b> Keep this in mind that I can't upload whole project (such as open source code)</b>🛎️
+</br>🛎️<b> Keep this in mind that I can't upload whole project (such as open source code)</b>🛎️
 
 ![Preview](Preview.PNG)
 
-![Hello](hello.svg)
+
 
 
 <h2> Alireza's <a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/1f606cfc6681e464ec2d6753cd1f697974bf3fc6f79fb7ed15c1cc3172e74ca0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6769746875622d2d76312e706e67"><img src="https://camo.githubusercontent.com/1f606cfc6681e464ec2d6753cd1f697974bf3fc6f79fb7ed15c1cc3172e74ca0/68747470733a2f2f696d672e69636f6e73382e636f6d2f636f6c6f722f39362f3030303030302f6769746875622d2d76312e706e67" height="24" data-canonical-src="https://img.icons8.com/color/96/000000/github--v1.png" style="max-width: 100%;"></a> <small> </small>Github Profile</small></h2>
