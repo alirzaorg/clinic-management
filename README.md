@@ -32,7 +32,7 @@
 6. Add/Remove: Admin can Add/remove doctors patients and other staff members form the clinic.
 7. 
 
-</br>🛎️<b> Keep this in mind that I can't upload whole project (such as open source code)</b>🛎️
+</br>🛎️<b> Keep this in mind that I can't upload whole project (such as open source code) and It is specifically made for one of my clients</b>🛎️
 
 ![Preview](Preview.PNG)
 
